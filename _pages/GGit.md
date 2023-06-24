@@ -1,3 +1,9 @@
+---
+title: "玩转 Git 三剑客"
+excerpt: "Page not found. Your pixels are in another canvas."
+sitemap: false
+permalink: /GGit
+---
 玩转 Git 三剑客
 
 记录 GitHub Pages 搭建学习 git
