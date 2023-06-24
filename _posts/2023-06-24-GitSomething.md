@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "学习 Git 记录"
+---
 玩转 Git 三剑客
 
 记录 GitHub Pages 搭建学习 git
