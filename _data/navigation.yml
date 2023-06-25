@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "navigation_1"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
+  - title: "If I look back I am lost."
+    url: /creative/
+  - title: "关于"
     url: https://yesterz.github.io/about
-  - title: "Sample Posts"
+  - title: "一些文章"
     url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
