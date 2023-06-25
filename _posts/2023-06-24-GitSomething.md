@@ -2,28 +2,23 @@
 layout: post
 title:  "学习Git记录"
 date: 2023-06-24 14:30:00
+toc: true
 ---
 
 
-
-
-
-
 玩转 Git 三剑客
-
 记录 GitHub Pages 搭建学习 git
-
 Pages 的主题文档地址：https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
-# Ch1 Git 基础
+## Ch1 Git 基础
 
-## 01-课程综述
+### 01-课程综述
 
 Git 是版本控制系统（VCS）
 
 ![image-20230624105057547](C:/Users/hcho/AppData/Roaming/Typora/typora-user-images/image-20230624105057547.png)
 
-### 集中式 VCS：
+#### 集中式 VCS：
 
 1. 有集中的版本管理服务器
 2. 具备文件管理和分支管理能力
@@ -32,7 +27,7 @@ Git 是版本控制系统（VCS）
 
 ![image-20230624105138425](C:/Users/hcho/AppData/Roaming/Typora/typora-user-images/image-20230624105138425.png)
 
-### 分布式 VCS
+#### 分布式 VCS
 
 1. 服务端和客户端都有完整的版本库
 2. 脱离服务端，客户端照样可以管理版本
@@ -42,7 +37,7 @@ bitkeep
 
 ![image-20230624105447766](C:/Users/hcho/AppData/Roaming/Typora/typora-user-images/image-20230624105447766.png)
 
-### Git 的特点
+#### Git 的特点
 
 1. 最优的存储能力
 2. 非凡的性能
