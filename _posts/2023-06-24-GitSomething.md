@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "学习Git记录"
+layout: post
 toc: true
 ---
 
@@ -256,36 +256,12 @@ git log --oneline temp
 
 ## 09-探秘 .git 目录
 
-
-
-
-
-
-
-
-
 # ch2 独自使用 Git 时的场景
-
-
-
-
-
-
-
-
-
-
-
 # ch3 Git 与 GitHub 简单同步
-
 全球最大的代码托管平台 [Github](https://www.github.com)
-
 ## 30-注册一个 Github 账号
-
 ## 31-配置公私钥
-
 ## 32-在 GitHub 上创建个人仓库
-
 ## 33-把本地仓库同步到 GitHub
 
 ![image-20230624143249909](C:/Users/hcho/AppData/Roaming/Typora/typora-user-images/image-20230624143249909.png)
@@ -307,12 +283,4 @@ git checkout master
 git merge github/master
 git merge --allow-untelated-histories github/master
 ```
-
-
-
-
-
-
-
 # ch6 初时 Github
-
