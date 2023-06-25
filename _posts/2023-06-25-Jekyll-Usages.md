@@ -40,7 +40,16 @@ category/categories 除过将博客文章放在某个文件夹下面外，你还
 tags 类似分类 categories，一篇文章也可以给它增加一个或者多个标签。同样，tags 可以通过 YAML 列表或者以逗号隔开的字符串指定。
 ### 代码高亮显示
 高亮代码片段
-你可以在代码片段中增加关键字 linenos 来显示行数。这样完整的高亮开始标记将会是: {% highlight ruby linenos %}。
+你可以在代码片段中增加关键字 linenos 来显示行数。这样完整的高亮开始标记将会是: 
+{% highlight ruby linenos %}
+def show
+@widget = Widget(params[:id])
+respond_to do |format|
+format.html # show.html.erb
+format.json { render json: @widget }
+end
+end
+{% endhighlight %}
 {% highlight ruby %}
 def show
 @widget = Widget(params[:id])
