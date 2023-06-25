@@ -1,6 +1,5 @@
 ---
 title: "学习Git记录"
-layout: post
 toc: true
 ---
 
