@@ -7,12 +7,13 @@
 - [ ] 首页还需要设计
 - [ ] 404 页面，现在404页面有一个跳转
 - [ ] about 页面
+- [ ] 
 
 ### In Progress
 
 - [ ] 
 - [ ] 
-- [ ] 
+      
 
 ### Done ✓
 
@@ -33,3 +34,6 @@
   the shield that guards the realms of men. <br/>
   I pledge my life and honor to the Night's Watch, <br/>
   for this night and all the nights to come.<br/>
+
+## 踩坑记录
+* title 字符串中带空格就解析不出这篇文章，设置的分隔符的问题？待调查
