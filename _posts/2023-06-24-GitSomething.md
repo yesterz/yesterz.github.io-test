@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "学习Git记录"
-date: 2023-06-24 14:30:00
 toc: true
 ---
 
