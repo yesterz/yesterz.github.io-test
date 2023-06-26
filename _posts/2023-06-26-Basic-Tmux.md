@@ -1,5 +1,5 @@
 ---
-title: "使用Jekyll的时候配置的记录"
+title: "Tmux优秀的终端复用工具"
 categories:
   - Linux
 tags:
@@ -7,11 +7,10 @@ tags:
   - tools
 toc: true
 ---
-
 ### tmux使用学习文档
-1. Tmux 使用手册 http://louiszhai.github.io/2017/09/30/tmux/
-2. 基础教程 https://www.ruanyifeng.com/blog/2019/10/tmux.html
-3. tmux之道？Tao of Tmux https://tao-of-tmux.readthedocs.io/zh_CN/latest/
+1. Tmux 使用手册 [http://louiszhai.github.io/2017/09/30/tmux/](http://louiszhai.github.io/2017/09/30/tmux/)
+2. 基础教程 [https://www.ruanyifeng.com/blog/2019/10/tmux.html](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
+3. tmux之道？Tao of Tmux [https://tao-of-tmux.readthedocs.io/zh_CN/latest/](https://tao-of-tmux.readthedocs.io/zh_CN/latest/)
 
 ### 基本使用流程
 
