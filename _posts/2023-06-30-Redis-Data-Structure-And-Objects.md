@@ -1,3 +1,12 @@
+---
+title: "Redis 数据结构与对象"
+categories:
+  - Redis
+tags:
+  - Redis
+  - Java
+toc: true
+---
 # 简单动态字符串 sinple dynamic string, SDS
 ## SDS 的定义
 ```c
