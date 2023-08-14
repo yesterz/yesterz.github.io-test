@@ -1,7 +1,13 @@
+---
+title: "Zookeeper学习笔记"
+categories:
+  - Zookeeper
+tags:
+  - 分布式
+toc: true
+---
 #一、ZooKeeper基础
 
-测试1：
-![头像]({{ site.url }}/assets/images/avatar.png)
 ## 1.1 为什么使用ZooKeeper？
 
 1. Nginx作为负载均衡管理大量服务器时，管理起来比较麻烦，可以通过zookeeper注册服务与发现服务协作管理。
