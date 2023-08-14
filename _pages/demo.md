@@ -2,6 +2,7 @@
 title: "示例页面"
 excerpt: "Page not found. Your pixels are in another canvas."
 sitemap: false
+mermaid: true
 permalink: /demo
 ---
 
