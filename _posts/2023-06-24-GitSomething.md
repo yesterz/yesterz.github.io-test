@@ -1,5 +1,9 @@
 ---
-title: "学习Git记录"
+title: "极客时间-学习Git记录"
+categories:
+  - Git
+tags:
+  - Git
 toc: true
 ---
 

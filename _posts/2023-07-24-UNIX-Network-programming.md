@@ -1,3 +1,13 @@
+---
+title: "UNIX网络编程笔记"
+categories:
+  - Linux/Unix
+  - Network
+tags:
+  - 网络编程
+  - 五种I/O模型
+toc: true
+---
 # OSI模型
 ## 理解两个词 ISO & OSI
 
