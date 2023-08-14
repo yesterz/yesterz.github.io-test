@@ -24,6 +24,7 @@
 
 - [x] 跑通流程 GitHub Pages 博客站点，提交并同步远程仓库
 - [x] 图片显示问题，用这种方式`![有帮助的截图]({{ site.url }}/assets/screenshot.jpg)`来引用显示
+- [x] Meimaid渲染出流程图搞定
 
   **Night watcher swear** <br/>
   <br/>
