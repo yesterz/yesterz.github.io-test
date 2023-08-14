@@ -1,5 +1,12 @@
 #一、ZooKeeper基础
 
+测试1：
+![头像]({{ site.url }}/assets/images/avatar.png)
+测试2：
+![拜占庭将军问题](image/pzt.jpg)
+![拜占庭将军问题使用site.url的图片]({{ site.url }}/_posts/image/pzt.jpg)
+
+
 ## 1.1 为什么使用ZooKeeper？
 
 1. Nginx作为负载均衡管理大量服务器时，管理起来比较麻烦，可以通过zookeeper注册服务与发现服务协作管理。
