@@ -16,6 +16,7 @@ graph TD;
     B-->D;
     C-->D;
 ```  
+
 <div class="mermaid">
 gitGraph
     commit id: "First"
@@ -25,13 +26,7 @@ gitGraph
     checkout main
 </div>
 
-<script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
-<script>
-  $(document).ready(function () {
-    mermaid.initialize({
-      startOnLoad:true,
-      theme: "default",
-    });
-    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
-  });
-</script>
+<div class="mermaid">
+flowchart LR
+     id1((a)) --> id2((b)) & c--> d
+</div>
