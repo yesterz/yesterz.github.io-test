@@ -6,6 +6,8 @@ main:
     url: https://yesterz.github.io/about
   - title: "一些文章"
     url: /year-archive/
+  - title: "demo"
+    url: /demo/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Sitemap"
