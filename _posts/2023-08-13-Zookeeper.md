@@ -2,6 +2,7 @@
 
 测试1：
 ![头像]({{ site.url }}/assets/images/avatar.png)
+![头像测试2](assets/images/avatar.png)
 测试2：
 ![拜占庭将军问题](image/pzt.jpg)
 ![拜占庭将军问题使用site.url的图片]({{ site.url }}/_posts/image/pzt.jpg)
