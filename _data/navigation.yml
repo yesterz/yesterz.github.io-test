@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "If I look back I am lost."
-    url: /creative/
+    url: /creative
   - title: "关于"
     url: https://yesterz.github.io/about
   - title: "一些文章"
-    url: /year-archive/
+    url: /year-archive
   - title: "demo"
-    url: /demo/
+    url: /demo
   - title: "Sample Collections"
-    url: /collection-archive/
+    url: /collection-archive
   - title: "Sitemap"
-    url: /sitemap/
+    url: /sitemap
