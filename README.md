@@ -1,5 +1,5 @@
 # yesterz.github.io
-我的博客地址：https://yesterz.github.io/<br/>
+我的博客地址（欢迎围观~）：https://yesterz.github.io/<br/>
 # Getting Things DONE
 
 ### Todo
@@ -7,12 +7,17 @@
 - [ ] 首页还需要设计
 - [ ] 404 页面，现在404页面有一个跳转
 - [ ] about 页面
-- [ ] 
+- [ ] 页面的总体自适应宽屏幕（这个还没有头绪怎么，是不是要改CSS）
+  - [ ] 应该是修改博客主体为宽屏模式
+
+
 
 ### In Progress
 
-- [ ] 
-- [ ] 
+- [ ] 分布式知识笔记记录
+- [ ] Dubbo的知识
+- [ ] RPC的一些东西
+- [ ] to be continued
       
 
 ### Done ✓
