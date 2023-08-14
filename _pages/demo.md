@@ -8,6 +8,7 @@ permalink: /demo
 
 1. 比如说图片怎么弄上来
 2. 流程图怎么弄上来
+
 ```mermaid
 graph TD;
     A-->B;
@@ -15,6 +16,14 @@ graph TD;
     B-->D;
     C-->D;
 ```  
+<div class="mermaid">
+gitGraph
+    commit id: "First"
+    commit id: "Second"
+    branch develop
+    commit id: "Third"
+    checkout main
+</div>
 
 <script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
 <script>
