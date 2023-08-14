@@ -4,15 +4,15 @@
 
 1. Nginx作为负载均衡管理大量服务器时，管理起来比较麻烦，可以通过zookeeper注册服务与发现服务协作管理。
 
-	![img](image\wps1.jpg) 
+	![img](https://raw.githubusercontent.com/yesterz/yesterz.github.io/master/_postes/image/wps1.jpg) 
 
-	![img](image\wps2.jpg)
+	![img](https://raw.githubusercontent.com/yesterz/yesterz.github.io/master/_postes/image/wps2.jpg)
 
 2. 使用分布式部署后，多线程安全的问题，以前学的同步代码块、重构锁、读写锁等通通失效，怎么办？
 
 3. 大数据分布式集群中，集群的服务器如何管理？
 
-	![](image/jqgl.jpg)
+	![](https://raw.githubusercontent.com/yesterz/yesterz.github.io/master/_postes/image/jqgl.jpg)
 
 4. 以前大部分应用需要开发私有的协调程序，缺乏一个通用的机制协调程序的反复编写浪费，且难以形成通用、伸缩性好的协调器
 
@@ -34,17 +34,17 @@ ZooKeeper是分布式应用程序的协调服务框架，是Hadoop的重要组�
 
 1. Hadoop,使用ZooKeeper的事件处理确保整个集群只有一个NameNode,存储配置信息等.
 
-![](image/hdfs-nn-ha.jpg) 
+![](https://raw.githubusercontent.com/yesterz/yesterz.github.io/master/_postes/image/hdfs-nn-ha.jpg) 
 
 2. HBase,使用ZooKeeper的事件处理确保整个集群只有一个HMaster,察觉HRegionServer联机和宕机,存储访问控制列表等.
 
 3. 分布式环境下的统一命名服务
 
-![img](image\wps4.jpg) 
+![img](https://raw.githubusercontent.com/yesterz/yesterz.github.io/master/_postes/image/wps4.jpg) 
 
 4. 分布式环境下的配置管理
 
-![img](image\wps5.jpg) 
+![img](https://raw.githubusercontent.com/yesterz/yesterz.github.io/master/_postes/image/wps5.jpg) 
 
 5. 数据发布/订阅
 
