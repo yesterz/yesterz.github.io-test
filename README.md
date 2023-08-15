@@ -44,4 +44,4 @@
 
 ## 踩坑记录
 * title 字符串中带空格就解析不出这篇文章，设置的分隔符的问题？待调查
-* 
+* /workspaces/yesterz.github.io/_sass/minimal-mistakes/_page.scss 65行已注释，拉长页面宽度
